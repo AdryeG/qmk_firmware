@@ -73,4 +73,4 @@ void encoder_update_user(uint8_t index, bool clockwise) {
 
 ## Hardware
 
-The A an B lines of the encoders should be wired directly to the MCU, and the C/common lines should be wired to ground.
+The A and B lines of the encoders should be wired directly to the MCU, and the C/common lines should be wired to ground.
